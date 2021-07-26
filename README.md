@@ -10,7 +10,7 @@ Note: This is almost the original program I wrote back then. I tried to make it 
 # How to use
 
 Grab a pencil. Write the source code down to your notebook.
-Open WebMSX[https://webmsx.org/] and write the source code line by line.
+Open [WebMSX](https://webmsx.org/) and write the source code line by line.
 Write `RUN` and hit enter key to start.
 Smash repeatedly your Space key and get score.
 After the game is finished, do `RUN` again. Enjoy!
