@@ -11,7 +11,11 @@ Note: This is almost the original program I wrote back then. I tried to make it 
 
 Grab a pencil. Write the source code down to your notebook.
 Open [WebMSX](https://webmsx.org/) and write the source code line by line.
+
 Otherwise, copy the source code on your clipboard then hit ALT-V then CTRL-V to paste to WebMSX.
+
 Write `RUN` and hit enter key to start.
+
 Smash repeatedly your Space key and get score.
+
 After the game is finished, do `RUN` again. Enjoy!
