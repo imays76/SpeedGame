@@ -9,7 +9,7 @@ Note: This is almost the original program I wrote back then. I tried to make it 
 
 # How to use
 
-Grab a pencil. Write the source code down to your notebook.
+Grab a pencil. Write [the source code](https://github.com/imays76/SpeedGame/blob/main/SPEEDGAME.BAS) down to your notebook.
 Open [WebMSX](https://webmsx.org/) and write the source code line by line.
 
 Otherwise, copy the source code on your clipboard then hit ALT-V then CTRL-V to paste to WebMSX.
